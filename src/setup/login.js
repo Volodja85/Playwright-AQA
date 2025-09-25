@@ -1,6 +1,7 @@
 import { chromium } from "@playwright/test";
 import { HomePage } from "../pages/HomePage.js";
 //import { HomePage } from "../pages/HomePage.js";
+//node src/setup/login.js запуск файлу
 
 (async () => {
   const browser = await chromium.launch();

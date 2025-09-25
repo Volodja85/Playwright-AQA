@@ -2,7 +2,7 @@
   "cookies": [
     {
       "name": "YSC",
-      "value": "3fLWvqI5AVk",
+      "value": "x39V5ioqA6A",
       "domain": ".youtube.com",
       "path": "/",
       "expires": -1,
@@ -12,30 +12,30 @@
     },
     {
       "name": "VISITOR_INFO1_LIVE",
-      "value": "1L3cEdQ0hnE",
+      "value": "GzlsWhKZARk",
       "domain": ".youtube.com",
       "path": "/",
-      "expires": 1774044716.446326,
+      "expires": 1774044152.468718,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "VISITOR_PRIVACY_METADATA",
-      "value": "CgJVQRIEGgAgVw%3D%3D",
+      "value": "CgJVQRIEGgAgNQ%3D%3D",
       "domain": ".youtube.com",
       "path": "/",
-      "expires": 1774044716.446389,
+      "expires": 1774044152.468799,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "__Secure-ROLLOUT_TOKEN",
-      "value": "CNvUwerh7NyPahCa5tft7-qPAxia5tft7-qPAw%3D%3D",
+      "value": "CKDogJTAp8XNERD8puDg7eqPAxj8puDg7eqPAw%3D%3D",
       "domain": ".youtube.com",
       "path": "/",
-      "expires": 1774044716.446441,
+      "expires": 1774044152.468886,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None",
@@ -44,10 +44,10 @@
     },
     {
       "name": "sid",
-      "value": "s%3AgPybMZKO8o1Zif0kWM_YcKTnAcyyh2ZW.eqehhpHWVRfRAF2PYuBJi14iNo%2F6TD3nRKpJ8K2LXwo",
+      "value": "s%3ApL2rxWMKlbDA9LllA2Rwl1v1GtUQ5DM9.ZJOnbBaMNpGLvBYSsY7ofhhH0Lpe0geYTWBNvkURMbI",
       "domain": ".forstudy.space",
       "path": "/",
-      "expires": 1758579118.664061,
+      "expires": 1758578554.697796,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -59,7 +59,7 @@
       "localStorage": [
         {
           "name": "ytidb::LAST_RESULT_ENTRY_KEY",
-          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1761084717358,\"creation\":1758492717358}"
+          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1761084153277,\"creation\":1758492153278}"
         }
       ]
     }

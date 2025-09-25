@@ -5,9 +5,11 @@ export default defineConfig({
   use: {
     baseURL: "https://guest:welcome2qauto@qauto.forstudy.space/",
     headless: true,
+    //storageState: "src/storage/сookies.json",
+    //storageState: "src/storage/user.json",
+    //storageState: "src/storage/sid.json",
     screenshot: "only-on-failure",
     video: "retain-on-failure",
-    /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: "on-first-retry",
   },
   projects: [
