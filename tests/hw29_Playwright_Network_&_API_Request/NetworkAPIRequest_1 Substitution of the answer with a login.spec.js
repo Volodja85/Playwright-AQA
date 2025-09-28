@@ -9,7 +9,6 @@ test("Підміна відповіді з логіном", async ({ page }) => 
     },
   };
 
-  // Логін через UI
   const homePage = new HomePage(page, "/");
   await page.goto(homePage.url);
 
@@ -38,7 +37,7 @@ test("Підміна відповіді з логіном", async ({ page }) => 
   // Переходимо на сторінку профілю
   await page.goto("https://qauto.forstudy.space/panel/profile");
 
-  // Перевірка
+  
   const profileText = page.locator("p.profile_name.display-4");
   await expect(profileText).toContainText("Fake Name");
   await expect(profileText).toContainText("Fake Lastname");
